@@ -1,2 +1,2 @@
 # papers
-A collection of papers I've wrote or contributed to
+A collection of papers I've wrote or contributed to.
